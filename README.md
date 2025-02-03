@@ -4,15 +4,15 @@ Welcome to my GitHub repositories! My projects are categorized into three differ
 
 ## 📌 Organization Structure
 
-1. **Nabil-NTUProjs** 🎓  
+1. **[Nabil-NTUProjs](https://github.com/Nabil-NTUProjs)** 🎓  
    - Contains projects related to my studies and research at NTU.  
    - Includes coursework, academic research, and university-related projects.
 
-2. **Nabil-PersonalProj** 🏗️  
+2. **[Nabil-PersonalProj](https://github.com/Nabil-PersonalProj)** 🏗️  
    - Houses my personal development projects.  
    - Includes hobby projects, experimental coding, and independent work.
 
-3. **Nabil-PolyProjs** 📚  
+3. **[Nabil-PolyProjs](https://github.com/Nabil-PolyProjs)** 📚 
    - Contains projects from my Polytechnic days.  
    - Includes coursework, group projects, and academic assignments from Polytechnic.
 
